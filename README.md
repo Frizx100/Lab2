@@ -10,3 +10,8 @@
 ![](./screenshots/Diagram.png)
 
 Як показують дані, найбільш ефективним є мектод 2D декартові, і спадає з кожним наступним методом.
+
+Також скріни коду про всяк випадок:
+![](./screenshots/Code1.png)
+![](./screenshots/Code2.png)
+![](./screenshots/Code3.png)
