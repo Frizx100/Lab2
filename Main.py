@@ -49,7 +49,7 @@ def great_circle_distance(p1, p2, radius):
 
 def main():
     # Генерация точек
-    n_points = 10000
+    n_points = 100000
     r_values = np.random.default_rng().uniform(0.0, 10.0, n_points)
     theta_values = np.random.default_rng().uniform(0, np.pi, n_points)
     phi_values = np.random.default_rng().uniform(0, np.pi, n_points)
